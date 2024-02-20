@@ -19,9 +19,9 @@ function App() {
 
   return (
     <>
-      <Routes>
+      
         <RouterProvider router={myRouter}></RouterProvider>
-      </Routes>
+      
     </>
   )
 }
