@@ -1,0 +1,15 @@
+.myHome{
+  background-color: #1ABC9C;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+}
+
+.myHome div{
+  margin-top:74px; 
+}
+
+.myHome p{
+  margin-top: 1.3rem;
+}
