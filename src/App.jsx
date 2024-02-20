@@ -19,11 +19,9 @@ function App() {
 
   return (
     <>
-    <HashRouter>
       <Routes>
         <RouterProvider router={myRouter}></RouterProvider>
       </Routes>
-    </HashRouter>
     </>
   )
 }
